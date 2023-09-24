@@ -1,0 +1,11 @@
+ignoreOPs: false
+
+hiddenCommands:
+  - "spark"
+  - "luckperms"
+  - "lp"
+
+disabledCommands:
+  - "spark"
+  - "luckperms"
+  - "lp"

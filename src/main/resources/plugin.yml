@@ -1,0 +1,8 @@
+name: HiddenCommands
+main: me.petterim1.hiddencommands.Main
+version: "${pom.version}"
+api: 1.0.13
+authors:
+  - "https://github.com/PetteriM1"
+  - "https://github.com/seetch"
+website: "https://github.com/torchflower/HiddenCommands"
